@@ -138,13 +138,12 @@ img {
 @media screen and (max-width: 480px) {
 
 
-    /* .row {
+    .row {
         display: flex;
         flex-direction: column;
         align-items: center;
         gap: 60px;
-    } */
-
+    }
     /* LESSONS SECTION */
 
     .lessons .col,
@@ -165,7 +164,6 @@ img {
     .why-us {
         background-color: black;
     }
-
 
     .steps,
     .why-us {
